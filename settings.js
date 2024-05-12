@@ -5,7 +5,7 @@ global.MONGO_DB_URI = "mongodb+srv://yudamodz:E_Ft1tseDQjK5_R@yudahost.c8csemw.m
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "yudamodsvip@gmail.com" //email
 global.email_password = "mxsd rbwn dtyq usco" //application password email
-global.limitCount = 10000
+global.limitCount = 100000
 global.YUOR_PORT = 8000
 global.loghandler = {
 	noapikey:{
