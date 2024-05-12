@@ -1,10 +1,10 @@
 const fs = require('fs')
 
-global.creator = 'Zeeoneofc'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.creator = 'YudaMods'// yourname
+global.MONGO_DB_URI = "mongodb+srv://yudamodz:E_Ft1tseDQjK5_R@yudahost.c8csemw.mongodb.net/?retryWrites=true&w=majority&appName=YudaHost" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
+global.your_email = "yudamodsvip@gmail.com" //email
+global.email_password = "mxsd rbwn dtyq usco" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
