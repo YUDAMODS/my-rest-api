@@ -1,5 +1,5 @@
 {
-  "name": "my-rest-api-vip",
+  "name": "my-rest-api",
   "version": "1.0.0",
   "description": "Rest api created by YudaHost",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YUDAMODS/my-rest-api-vip.git"
+    "url": "git+https://github.com/YUDAMODS/my-rest-api.git"
   },
   "keywords": [
     "nodejs-restapi",
@@ -54,5 +54,5 @@
     "request": "^2.88.2",
     "ssl-express-www": "^3.0.7"
   },
-  "homepage": "https://github.com/YUDAMODS/my-rest-api-vip#readme"
+  "homepage": "https://github.com/YUDAMODS/my-rest-api#readme"
 }
